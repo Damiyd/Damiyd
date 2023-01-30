@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&fontSize=30&animation=twinkling&text=상태창!%20개발%20레벨이%20올랐습니다.%20저의%20이름은%20최예닮입니다%20📶">
 
-   "이 곳은 어디..?" 
+   "이 곳은 어디...?" 
   
    눈을 떠보니 온통 코딩으로 가득한 세상이었다.
   
